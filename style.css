@@ -1,19 +1,12 @@
 body {
-    background: #be17e7
-}
-
-h1 {
-    text-align: center
+    background: #00fd94
 }
 
 p {
     text-align: center;
 }
+#missao{font-size: 20px} 
 
 em strong {
-    color: #00ffc8;
-}
-
-em strong {
-     color: #FF0000;
+    color: rgb(162, 0, 255);
 }
